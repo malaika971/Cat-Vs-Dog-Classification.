@@ -1,13 +1,10 @@
-# Cat-Vs-Dog-Classification.
+# Cat-Vs-Dog-Classification Using CNN
 
 - Prediction on cat and dogs data to classify them in right class using CNN.
 - Testing loss: 0.02% 
 - Testing Accuracy: 99%
 - Data Set used:  https://www.kaggle.com/datasets/salader/dogs-vs-cats
 ____________
-
-
-# Cats vs Dogs Classification Using CNN
 
 ## Overview
 This project aims to classify images of cats and dogs using a Convolutional Neural Network (CNN). The dataset used is the "Dogs vs Cats" dataset from Kaggle. The model achieves high accuracy, making it effective for distinguishing between images of cats and dogs.
@@ -101,11 +98,3 @@ This shows that the model is performing well in classifying new, unseen images.
 
 This CNN-based model is effective for classifying images of cats and dogs, achieving high accuracy on both training and testing datasets. However, steps such as data augmentation and regularization could be applied to further improve generalization and reduce overfitting.
    ```
-
-## Acknowledgments
-- Dataset: [Dogs vs Cats on Kaggle](https://www.kaggle.com/datasets/salader/dogs-vs-cats)
-- Libraries used: TensorFlow, Keras, Matplotlib
-
----
-
-Let me know if you'd like any further adjustments!
